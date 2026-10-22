@@ -1,0 +1,12 @@
+# SenateEdge v3 — Python dependencies
+requests>=2.31.0
+pandas>=2.0.0
+yfinance>=0.2.36
+schedule>=1.2.0
+python-dotenv>=1.0.0
+anthropic>=0.25.0      # optional — for transcript LLM analysis
+numpy
+torch
+matplotlib
+seaborn
+networkx
